@@ -1,5 +1,5 @@
 # Hello World!, I'm Kamdem Jordan, a  Full Stack Developer Student👋🏼:
-🌐 Currently building innovative web and mobile applications, including my personal [webpage](**)<br>📘 Studying Information Systems Engineering at Saint Jean University<br>👨🏼‍💻 Developing innovative solutions, including mobile apps, web systems, and client-server applications since 2023. <br>🎯 Aspiring to build accessible technologies that improve lives and bridge gaps through innovation. <i>kamdem jordan tech</i>
+🌐 Currently building innovative web and mobile applications,<br>📘 Studying Information Systems Engineering at Saint Jean University<br>👨🏼‍💻 Developing innovative solutions, including mobile apps, web systems, and client-server applications since 2023. <br>🎯 Aspiring to build accessible technologies that improve lives and bridge gaps through innovation. <i>kamdem jordan tech</i>
 
 
 
